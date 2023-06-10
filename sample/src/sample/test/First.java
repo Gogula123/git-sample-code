@@ -6,6 +6,7 @@ public class First {
 		// TODO Auto-generated method stub
 		System.out.println("*****************");
 		System.out.println("Changed user name");
+		System.out.println("Changed from remote");
 	}
 
 }
